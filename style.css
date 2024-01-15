@@ -140,12 +140,12 @@ body {
       color: var(--clr-primary-400);
       font-weight: var(--fw-bold);
       transition: all 0.25s linear;
+      font-size: 1.2rem;
 
       &:hover {
         text-decoration: none;
         color: var(--clr-primary-450);
         cursor: pointer;
-        font-size: 1.2rem;
       }
     }
   }
