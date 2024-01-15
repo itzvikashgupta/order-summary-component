@@ -139,7 +139,6 @@ body {
     & a {
       color: var(--clr-primary-400);
       font-weight: var(--fw-bold);
-      font-size: 1.4rem;
       transition: all 0.25s linear;
 
       &:hover {
