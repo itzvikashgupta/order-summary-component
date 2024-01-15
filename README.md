@@ -22,8 +22,8 @@ This Order summary card challenge solution presented here showcases a sleek and 
 
 ### Links
 
-- Solution URL: [https://github.com/itzvikashgupta/order-summary-card-component]
-- Live Site URL: [https://order-summary-card-soln.netlify.app/]
+- Solution URL: [https://github.com/itzvikashgupta/order-summary-component]
+- Live Site URL: [https://order-summary-component-soln.netlify.app/]
 
 ## My Process
 
